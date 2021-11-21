@@ -24680,7 +24680,10 @@
       "symbol": "BUG",
       "name": "Bug",
       "decimals": 9,
-      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BUGuuhPsHpk8YZrL2GctsCtXGneL1gmT5zYb7eMHZDWf/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BUGuuhPsHpk8YZrL2GctsCtXGneL1gmT5zYb7eMHZDWf/logo.png",
+      "tags": [
+        "meme-token"
+      ],
     }
   ],
   "version": {
